@@ -6,8 +6,6 @@ This is my first GitHub Flow project
 
 ![screenshot](./live_img.png)
 
-Description about the project and its features.
-
 ## Built With
 
 - HTML
